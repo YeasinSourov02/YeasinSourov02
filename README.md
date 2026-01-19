@@ -65,7 +65,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/><br>Windows</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
-    <td align="center"><img src="https://img.shields.io/badge/Excalidraw-Tool-blue?style=flat-square" width="80"/><br>Excalidraw</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/59452120?v=4" width="80"/><br>Excalidraw</td>
   </tr>
 </table>
 
